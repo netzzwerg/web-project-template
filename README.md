@@ -9,6 +9,7 @@ Features
 - Simple Local HTTP Server.
 - Sass compile after file change.
 - Live Browser reload after file change.
+- JavaScript Beautify config based on [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 
 Files
 -------
